@@ -2,7 +2,6 @@ Phantom Calculator
 
 A sleek, iOS-inspired calculator web application built with React and Next.js.
 
-Description:
 Phantom Calculator is a modern, interactive calculator designed to mimic the aesthetics and functionality of the iOS calculator. Built using React and Next.js, this project showcases a blend of elegant design and robust functionality.
 
 Key Features:
